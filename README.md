@@ -125,3 +125,11 @@ The goal of this project is to develop a functional desktop application that ena
 This project was developed for educational purposes. For commercial use, please contact the developers.
 
 
+<img width="1028" height="778" alt="Ekran görüntüsü 2025-07-10 152626" src="https://github.com/user-attachments/assets/e5cd5114-7bd3-401c-9afb-812af8ebecad" />
+<img width="982" height="616" alt="Ekran görüntüsü 2025-07-10 151957" src="https://github.com/user-attachments/assets/0a3775b0-ef2a-4fa7-9526-4911b1666dd8" />
+<img width="1630" height="1003" alt="Ekran görüntüsü 2025-07-10 151925" src="https://github.com/user-attachments/assets/aa086f85-aec5-4ba7-b0e7-ccbfd7cef003" />
+<i<img width="1913" height="990" alt="Ekran görüntüsü 2025-07-10 151637" src="https://github.com/user-attachments/assets/b113a8b1-b401-4a1c-8ccb-907582a59ba8" />
+m<im<img width="1353" height="1036" alt="Ekran görüntüsü 2025-07-10 151709" src="https://github.com/user-attachments/assets/1cf0fd3d-fada-41b2-b78d-e05924a3efea" />
+g width="1065" height="912" alt="Ekran görüntüsü 2025-07-10 151827" src="https://github.com/user-attachments/assets/ac2f8890-0b44-470b-9a42-d415e8451872" />
+g <img width="1026" height="1032" alt="Ekran görüntüsü 2025-07-10 151901" src="https://github.com/user-attachments/assets/d8106dd6-7812-4ebe-bf95-0ad543e4e179" />
+width="1065" height="912" alt="Ekran görüntüsü 2025-07-10 151827" src="https://github.com/user-attachments/assets/e21391b0-b271-454e-ab9b-5b0d3c990ff3" />
