@@ -125,11 +125,12 @@ The goal of this project is to develop a functional desktop application that ena
 This project was developed for educational purposes. For commercial use, please contact the developers.
 
 
-<img width="1028" height="778" alt="Ekran görüntüsü 2025-07-10 152626" src="https://github.com/user-attachments/assets/e5cd5114-7bd3-401c-9afb-812af8ebecad" />
-<img width="982" height="616" alt="Ekran görüntüsü 2025-07-10 151957" src="https://github.com/user-attachments/assets/0a3775b0-ef2a-4fa7-9526-4911b1666dd8" />
-<img width="1630" height="1003" alt="Ekran görüntüsü 2025-07-10 151925" src="https://github.com/user-attachments/assets/aa086f85-aec5-4ba7-b0e7-ccbfd7cef003" />
-<i<img width="1913" height="990" alt="Ekran görüntüsü 2025-07-10 151637" src="https://github.com/user-attachments/assets/b113a8b1-b401-4a1c-8ccb-907582a59ba8" />
-m<im<img width="1353" height="1036" alt="Ekran görüntüsü 2025-07-10 151709" src="https://github.com/user-attachments/assets/1cf0fd3d-fada-41b2-b78d-e05924a3efea" />
-g <img width="1065" height="912" alt="Ekran görüntüsü 2025-07-10 151827" src="https://github.com/user-attachments/assets/ac2f8890-0b44-470b-9a42-d415e8451872" />
-g <img width="1026" height="1032" alt="Ekran görüntüsü 2025-07-10 151901" src="https://github.com/user-attachments/assets/d8106dd6-7812-4ebe-bf95-0ad543e4e179" />
 
+
+<img width="1630" height="1003" alt="Ekran görüntüsü 2025-07-10 151925" src="https://github.com/user-attachments/assets/08221c01-8fb7-450b-b77b-be0e05d79b40" />
+<img width="1026" height="1032" alt="Ekran görüntüsü 2025-07-10 151901" src="https://github.com/user-attachments/assets/057913c7-031d-4db0-aea7-b43ca94fe7bf" />
+<img width="1065" height="912" alt="Ekran görüntüsü 2025-07-10 151827" src="https://github.com/user-attachments/assets/b29cefee-0e72-433f-b036-f411e8d4cc96" />
+<img width="1353" height="1036" alt="Ekran görüntüsü 2025-07-10 151709" src="https://github.com/user-attachments/assets/e40a5838-dad3-427d-bcb5-399dd53c3b59" />
+<img width="1913" height="990" alt="Ekran görüntüsü 2025-07-10 151637" src="https://github.com/user-attachments/assets/f387e1af-28ac-4181-a590-90304ecc2843" />
+<img width="1028" height="778" alt="Ekran görüntüsü 2025-07-10 152626" src="https://github.com/user-attachments/assets/4f12af05-efc5-494b-b895-60469466103d" />
+<img width="982" height="616" alt="Ekran görüntüsü 2025-07-10 151957" src="https://github.com/user-attachments/assets/e4075c35-e92d-4743-8b22-45661324394d" />
